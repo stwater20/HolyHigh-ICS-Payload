@@ -8,5 +8,3 @@
 Payload 是開馬達跟關馬達
 
 使用 Wireshark 劫取封包
-
-實現中間人攻擊
